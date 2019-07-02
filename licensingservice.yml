@@ -1,4 +1,4 @@
-example.property: "I AM yokile"
+example.property: "I AM dushuai"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
